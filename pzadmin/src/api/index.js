@@ -12,7 +12,9 @@ export const userAuthentication = (data) => {
 };
 
 // 接口3-登录账号
-export const userLogin = (data) => {};
+export const userLogin = (data) => {
+    return request.post("/login", data);
+};
 
 // 接口4-权限管理
 // get请求属性为params
