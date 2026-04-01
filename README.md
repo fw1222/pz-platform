@@ -8,7 +8,8 @@
 
 
 ## 🛠 技术栈
-
+| 端 | 技术 |
+|------|------|
 | **PC 端** | Vue 3 + Vite + Element Plus + Vuex + Axios + Less |
 | **H5 端** | Vue 3 + Vite + Vant + Vue Router + Axios + QRCode |
 | **公共** | Vue Router、Axios、Day.js |
