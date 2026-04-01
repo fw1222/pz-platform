@@ -17,27 +17,30 @@
 
 ## 📁 项目结构
 
-pz-platform/
-├── pc-admin/ # 后台管理系统
-│ ├── src/
-│ │ ├── api/ # 接口封装
-│ │ ├── components/ # 公共组件
-│ │ ├── router/ # 路由配置
-│ │ ├── store/ # Vuex 状态管理
-│ │ ├── utils/ # 工具函数（axios封装）
-│ │ └── views/ # 页面组件
-│ ├── package.json
-│ └── vite.config.js
-├── h5-client/ # H5 用户端
-│ ├── src/
-│ │ ├── api/ # 接口封装
-│ │ ├── components/ # 公共组件
-│ │ ├── router/ # 路由配置
-│ │ ├── utils/ # 工具函数
-│ │ └── views/ # 页面组件
-│ ├── package.json
-│ └── vite.config.js
-└── README.md
+陪诊服务平台/
+│
+├── pc-admin/                    # 后台管理系统
+│   ├── src/
+│   │   ├── api/                 # 接口封装
+│   │   ├── components/          # 公共组件
+│   │   ├── router/              # 路由配置
+│   │   ├── store/               # Vuex 状态管理
+│   │   ├── utils/               # 工具函数（axios 封装）
+│   │   └── views/               # 页面组件
+│   ├── package.json
+│   └── vite.config.js
+│
+├── h5-client/                   # H5 用户端
+│   ├── src/
+│   │   ├── api/                 # 接口封装
+│   │   ├── components/          # 公共组件
+│   │   ├── router/              # 路由配置
+│   │   ├── utils/               # 工具函数
+│   │   └── views/               # 页面组件
+│   ├── package.json
+│   └── vite.config.js
+│
+└── README.md                    # 项目说明文档
 
 ## ✨ 核心功能
 
